@@ -3,6 +3,7 @@
 ---
 
 - Start Project
+- Forgot Password Page
 - Register Page
 - loginPage
 - Landing Page
