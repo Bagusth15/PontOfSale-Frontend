@@ -4,3 +4,4 @@
 
 - Start Project
 - loginPage
+- Landing Page
