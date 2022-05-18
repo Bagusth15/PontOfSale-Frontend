@@ -3,3 +3,4 @@
 ---
 
 - Start Project
+- manage movie page
