@@ -3,3 +3,4 @@
 ---
 
 - Start Project
+- Detail Page
