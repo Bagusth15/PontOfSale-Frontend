@@ -3,4 +3,4 @@
 ---
 
 - Start Project
-- Create Profile Page
+- Profile Page
